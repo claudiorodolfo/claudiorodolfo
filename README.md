@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+o+Cl%C3%A1udio+Rodolfo+%F0%9F%91%8B;Professor+e+Pesquisador+no+IFBA+%F0%9F%8E%93;Estruturas+de+dados+%E2%80%A2+Paradigmas+%E2%80%A2+Web+%E2%80%A2+Back-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+o+Cl%C3%A1udio+Rodolfo+%F0%9F%91%8B;Professor+e+Pesquisador+no+IFBA+%F0%9F%8E%93;Disciplinas+%E2%80%94+Introdu%C3%A7%C3%A3o+%C3%A0+Programa%C3%A7%C3%A3o;Disciplinas+%E2%80%94+Estruturas+de+Dados;Disciplinas+%E2%80%94+Programa%C3%A7%C3%A3o+Web" alt="Typing SVG" />
 
 <br/>
 
