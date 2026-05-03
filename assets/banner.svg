@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" role="img" aria-label="Faixa animada com código">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#238636">
+        <animate attributeName="stop-color" values="#238636;#58a6ff;#238636" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#238636;#58a6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" rx="16" fill="#0d1117"/>
+  <rect x="4" y="4" width="792" height="112" rx="14" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <text x="400" y="52" text-anchor="middle" fill="#c9d1d9" font-family="ui-monospace, Consolas, monospace" font-size="15">
+    <tspan>while (ensino) { pesquisa++; commit(); }</tspan>
+  </text>
+  <text x="400" y="82" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, Consolas, monospace" font-size="12">
+    <tspan>IFBA " algoritmos " paradigmas " web " back-end</tspan>
+  </text>
+  <circle cx="120" cy="60" r="6" fill="#58a6ff" opacity="0.9">
+    <animate attributeName="cx" values="120;680;120" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
