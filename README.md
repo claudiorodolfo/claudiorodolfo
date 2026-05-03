@@ -36,7 +36,7 @@ Trabalho com ensino de introdução a programação, estruturas de dados e progr
 
 ---
 
-### Stack que aparece nos meus repositórios
+### Stacks que aparecem nos meus repositórios
 
 <table><tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/></td>
@@ -53,8 +53,8 @@ Trabalho com ensino de introdução a programação, estruturas de dados e progr
 
 <div align="center">
 
-<img height="165" src="https://readme-stats-github.vercel.app/api?username=claudiorodolfo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://readme-stats-github.vercel.app/api/top-langs/?username=claudiorodolfo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="./assets/github-stats.svg" alt="GitHub stats" />
+<img height="165" src="./assets/top-langs.svg" alt="Top languages" />
 
 <br/>
 
