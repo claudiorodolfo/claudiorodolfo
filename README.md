@@ -22,8 +22,8 @@
 
 ### Sobre
 
-Sou **Cláudio Rodolfo S. de Oliveira**, professor e pesquisador no **Instituto Federal da Bahia (IFBA)**, campus **Vitória da Conquista**.  
-Trabalho com ensino de programação, algoritmos e desenvolvimento — unindo teoria, prática e materiais abertos aqui no GitHub.
+Sou **Cláudio Rodolfo Sousa de Oliveira**, professor e pesquisador no **Instituto Federal da Bahia (IFBA)**, campus **Vitória da Conquista**.  
+Trabalho com ensino de introdução a programação, estruturas de dados e programação web — unindo teoria, prática e materiais abertos aqui no GitHub.
 
 ---
 
@@ -32,11 +32,11 @@ Trabalho com ensino de programação, algoritmos e desenvolvimento — unindo te
 | Projeto | Linguagem / foco |
 |--------|-------------------|
 | [**estruturas_dados**](https://github.com/claudiorodolfo/estruturas_dados) | Estruturas de dados em **Java** |
+| [**introducao_programacao**](https://github.com/claudiorodolfo/introducao_programacao) | Introdução à programação em **C++** |
+| [**programacao_web**](https://github.com/claudiorodolfo/programacao_web) | Programação web com **PHP** |
 | [**paradigmas_linguagens_programacao**](https://github.com/claudiorodolfo/paradigmas_linguagens_programacao) | Paradigmas com **Scala** |
 | [**Java_Algorithms**](https://github.com/claudiorodolfo/Java_Algorithms) | Algoritmos em **Java** |
 | [**backend_python**](https://github.com/claudiorodolfo/backend_python) | Back-end com **Python** |
-| [**introducao_programacao**](https://github.com/claudiorodolfo/introducao_programacao) | Introdução à programação em **C++** |
-| [**programacao_web**](https://github.com/claudiorodolfo/programacao_web) | Programação web com **PHP** |
 
 ---
 
