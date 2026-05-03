@@ -46,6 +46,7 @@ Trabalho com ensino de introdução a programação, estruturas de dados e progr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
 </p>
@@ -56,8 +57,8 @@ Trabalho com ensino de introdução a programação, estruturas de dados e progr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=claudiorodolfo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiorodolfo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://readme-stats-github.vercel.app/api?username=claudiorodolfo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://readme-stats-github.vercel.app/api/top-langs/?username=claudiorodolfo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
@@ -76,8 +77,6 @@ Trabalho com ensino de introdução a programação, estruturas de dados e progr
 ---
 
 <div align="center">
-
-**“Repositório com o mesmo nome do usuário”** = README especial que o GitHub exibe no topo do seu perfil — é isso que deixa o perfil mais completo e “estiloso”. ✨
 
 [![GitHub followers](https://img.shields.io/github/followers/claudiorodolfo?label=Seguidores&style=social)](https://github.com/claudiorodolfo?tab=followers)
 
