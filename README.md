@@ -64,10 +64,10 @@ Trabalho com ensino de introdução a programação, estruturas de dados e progr
 
 ---
 
-### Detalhe animado (SVG no repositório)
+### Faixa em SVG (no repositório)
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Banner animado: código e temas de ensino" width="100%" />
+  <img src="./assets/banner.svg" alt="Código e temas de ensino (IFBA, algoritmos, paradigmas, web, back-end)" width="100%" />
 </p>
 
 ---
