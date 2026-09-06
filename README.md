@@ -34,7 +34,6 @@ Trabalho com ensino de introdução à programação, linguagem de programação
 | [**paradigmas_linguagens_programacao**](https://github.com/claudiorodolfo/paradigmas_linguagens_programacao) | Paradigmas com **Scala** |
 | [**padroes_projeto**](https://github.com/claudiorodolfo/padroes_projeto) | Padrões de projeto em **TypeScript** |
 | [**programacao_distribuida**](https://github.com/claudiorodolfo/programacao_distribuida) | Programação distribuída em **Java** |
-| [**Java_Algorithms**](https://github.com/claudiorodolfo/Java_Algorithms) | Algoritmos em **Java** |
 | [**backend_python**](https://github.com/claudiorodolfo/backend_python) | Back-end com **Python** |
 
 ---
